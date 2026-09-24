@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-17T18:55:46.665Z",
-  "rotationIndex": 3,
+  "lastUpdated": "2026-09-24T18:59:39.297Z",
+  "rotationIndex": 4,
   "topics": [
     {
       "id": "loc-1",
@@ -1390,7 +1390,7 @@
         "bergen county"
       ],
       "primaryKeyword": "sagging ceiling causes",
-      "generated": false
+      "generated": true
     },
     {
       "id": "signs-75",

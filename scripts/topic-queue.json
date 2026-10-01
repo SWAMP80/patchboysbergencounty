@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-24T18:59:39.297Z",
-  "rotationIndex": 4,
+  "lastUpdated": "2026-10-01T20:17:34.462Z",
+  "rotationIndex": 5,
   "topics": [
     {
       "id": "loc-1",
@@ -209,7 +209,7 @@
         "bergen county"
       ],
       "primaryKeyword": "drywall repair Mahwah NJ",
-      "generated": false
+      "generated": true
     },
     {
       "id": "loc-12",

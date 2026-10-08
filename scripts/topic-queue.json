@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-01T20:17:34.462Z",
-  "rotationIndex": 5,
+  "lastUpdated": "2026-10-08T20:38:38.277Z",
+  "rotationIndex": 7,
   "topics": [
     {
       "id": "loc-1",
@@ -1445,7 +1445,7 @@
         "bergen county"
       ],
       "primaryKeyword": "pre-winter ceiling check Bergen County",
-      "generated": false
+      "generated": true
     }
   ]
 }

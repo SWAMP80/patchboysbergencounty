@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-08T20:38:38.277Z",
-  "rotationIndex": 7,
+  "lastUpdated": "2026-10-15T19:00:21.587Z",
+  "rotationIndex": 0,
   "topics": [
     {
       "id": "loc-1",
@@ -228,7 +228,7 @@
         "bergen county"
       ],
       "primaryKeyword": "drywall repair Ramsey NJ",
-      "generated": false
+      "generated": true
     },
     {
       "id": "loc-13",

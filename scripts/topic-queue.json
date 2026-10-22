@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T19:00:21.587Z",
-  "rotationIndex": 0,
+  "lastUpdated": "2026-10-22T19:07:52.718Z",
+  "rotationIndex": 1,
   "topics": [
     {
       "id": "loc-1",
@@ -798,7 +798,7 @@
         "pricing"
       ],
       "primaryKeyword": "drywall installation cost Bergen County NJ",
-      "generated": false
+      "generated": true
     },
     {
       "id": "cost-43",

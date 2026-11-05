@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-29T20:10:03.912Z",
-  "rotationIndex": 2,
+  "lastUpdated": "2026-11-05T21:26:04.598Z",
+  "rotationIndex": 3,
   "topics": [
     {
       "id": "loc-1",
@@ -969,7 +969,7 @@
         "diy"
       ],
       "primaryKeyword": "how to repair plaster walls",
-      "generated": false
+      "generated": true
     },
     {
       "id": "howto-52",

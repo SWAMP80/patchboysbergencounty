@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-05T21:26:04.598Z",
-  "rotationIndex": 3,
+  "lastUpdated": "2026-11-12T21:48:34.301Z",
+  "rotationIndex": 4,
   "topics": [
     {
       "id": "loc-1",
@@ -1408,7 +1408,7 @@
         "bergen county"
       ],
       "primaryKeyword": "hairline cracks in walls",
-      "generated": false
+      "generated": true
     },
     {
       "id": "signs-76",
